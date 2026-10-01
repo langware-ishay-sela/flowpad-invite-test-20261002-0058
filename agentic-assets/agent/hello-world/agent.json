@@ -1,0 +1,14 @@
+{
+  "type": "agent",
+  "id": "aba81c40-66b0-4c59-ae3d-3266c9adab24",
+  "name": "hello-world",
+  "version": 1,
+  "description": "Replies with hello world.",
+  "avatar": "👋",
+  "worker_type": "claude",
+  "model": "haiku",
+  "permission_mode": "default",
+  "mcp_servers": [],
+  "load_flowpad_assistant": false,
+  "enabled": true
+}
